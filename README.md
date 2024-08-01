@@ -9,4 +9,4 @@ There is a launch.bat file, when this file is opened it will start both the keyl
 
 You can place the path of any target application or file there as you wish. Keep in mind to change the target path of the application to the path of launch.bat file. Target path is one of the properties find in the properties section of app when the app is reigt clicked.
 
-<h4><b>Warning! After the app icon is clicked the keylogger.pyw starts logging all the keys to the log.txt file until the system is turned off. If you want to disable the keylogger.pyw manually, you can search and delete all the running python processes in te task manager.</b></h4>
+<h3><b>Warning! After the app icon is clicked the keylogger.pyw starts logging all the keys to the log.txt file until the system is turned off. If you want to disable the keylogger.pyw manually, you can search and delete all the running python processes in te task manager.</b></h3>
