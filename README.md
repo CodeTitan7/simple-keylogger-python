@@ -1,11 +1,11 @@
 # simple-keylogger-python
 This is a simple keylogger written in python 3.
 
-There are 3 files one is keylogger.pyw, this contains python code for keylogging, when a key is pressed in keyboard, this will be saved in the log.txt file. 
+There are 3 files one is <b>keylogger.pyw</b>, this contains python code for keylogging, when a key is pressed in keyboard, this will be saved in the <b>log.txt</b> file. 
 
 <h4><i>PYW files are used in Windows to indicate a script needs to be run using PYTHONW. EXE instead of PYTHON. EXE in order to prevent a DOS console from popping up to display the output.</i></h4>
 
-There is a launch.bat file, when this file is opened it will start both the keylogger.pyw file and any target application (<i>here chrome app is used to trigger the keylogging</i>). 
+There is a <b>launch.bat</b> file, when this file is opened it will start both the keylogger.pyw file and any target application (<i>here chrome app is used to trigger the keylogging</i>). 
 
 You can place the path of any target application or file there as you wish. Keep in mind to change the target path of the application to the path of launch.bat file. Target path is one of the properties find in the properties section of app when the app is reigt clicked.
 
